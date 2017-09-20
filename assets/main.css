@@ -1,0 +1,10 @@
+.img-profile {
+	background: url('https://avatars2.githubusercontent.com/u/9282059?v=4&s=250') no-repeat center center;
+    height: 250px;
+    width: 250px;
+	border-radius: 150px;
+}
+
+.text-center {
+	text-align: center;
+}

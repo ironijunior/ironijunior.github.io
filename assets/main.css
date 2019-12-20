@@ -13,4 +13,9 @@
 .profile-body {
 	background-color: darkgray;
 	color: black;
+	padding-top: 100px;
+}
+
+.footer {
+	padding-top: 25px;
 }

@@ -1,5 +1,6 @@
 .img-profile {
 	background: url('https://i.ibb.co/XDwzGRt/tdc-751.jpg') no-repeat center center;
+	background-size: 330px;
     height: 250px;
     width: 250px;
 	border-radius: 150px;
@@ -7,4 +8,9 @@
 
 .text-center {
 	text-align: center;
+}
+
+.profile-body {
+	background-color: darkgray;
+	color: black;
 }
